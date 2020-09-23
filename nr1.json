@@ -1,6 +1,6 @@
 {
   "schemaType": "NERDPACK",
-  "id": "64b5d07f-3a52-45fe-9778-fa592482c890",
+  "id": "24efda44-db07-44e3-bd2a-b4155729e060",
   "displayName": "Synthetic Condition Search",
   "description": "Get alert conditions targeting your Monitor, contact rdouglas@newrelic.com"
 }
