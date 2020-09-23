@@ -63,7 +63,7 @@ Go to any Synthetics Monitor entity and you should see `Synthetics Condition Sea
 
 New Relic has open-sourced this project. This project is provided AS-IS WITHOUT WARRANTY OR DEDICATED SUPPORT. Issues and contributions should be reported to the project here on GitHub.
 
->We encourage you to bring your experiences and questions to the [Explorers Hub](https://discuss.newrelic.com) where our community members collaborate on solutions and new ideas.
+>We encourage you to bring your experiences and questions to the [Explorers Hub Post](https://discuss.newrelic.com/t/relic-solution-just-dropped-in-to-see-what-conditions-my-synthetics-were-in/114182) where our community members collaborate on solutions and new ideas.
 
 
 ## Contributing
