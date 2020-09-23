@@ -65,6 +65,9 @@ New Relic has open-sourced this project. This project is provided AS-IS WITHOUT 
 
 >We encourage you to bring your experiences and questions to the [Explorers Hub Post](https://discuss.newrelic.com/t/relic-solution-just-dropped-in-to-see-what-conditions-my-synthetics-were-in/114182) where our community members collaborate on solutions and new ideas.
 
+## Issues / enhancement requests
+
+Issues and enhancement requests can be submitted in the [Issues tab of this repository](../../issues). Please search for and review the existing open issues before submitting a new issue.
 
 ## Contributing
 
